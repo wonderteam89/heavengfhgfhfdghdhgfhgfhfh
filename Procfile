@@ -1,1 +1,1 @@
-worker: node bot.js
+java -jar JMusicBot-X.Y.Z.jar -nogui
