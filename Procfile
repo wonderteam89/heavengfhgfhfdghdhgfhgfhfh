@@ -1,1 +1,1 @@
-java -jar JMusicBot-X.Y.Z.jar -nogui
+java -jar JMusicBot-0.1.3.jar -nogui
