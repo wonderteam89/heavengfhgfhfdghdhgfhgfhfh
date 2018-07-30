@@ -13,14 +13,14 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=
+token=NDYzNjI0OTEyODk3MTc5NjQ4.DjDsSw.iod17Ia-oMXwE2DpWhIDUFXAois
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=
+owner=290908670529896448
 
 
 // This sets the prefix for the bot
@@ -29,7 +29,7 @@ owner=
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=!!
+prefix=1
 
 
 /////////////////////////////////////////////////////////////
@@ -45,7 +45,7 @@ prefix=!!
 // where X is the title. If you don't include an action, it will use the
 // default of 'Playing'
 //
-//game=Listening to Example game!
+//game=Listening To Music!
 
 
 // If you set this, it will modify the default status of bot
